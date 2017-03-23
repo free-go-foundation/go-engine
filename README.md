@@ -1,3 +1,4 @@
+ls
 # Go Engine
 
 ## Status
@@ -6,7 +7,7 @@
 ## Installation
 
 ```bash
-go get github.com/fschr/go
+go get github.com/free-go-foundation/go-engine
 ```
 
 ## Testing
