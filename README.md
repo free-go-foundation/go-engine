@@ -1,4 +1,3 @@
-ls
 # Go Engine
 
 ## Status
