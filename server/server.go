@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/fschr/go/engine"
+	"github.com/free-go-foundation/go-engine/engine"
 	"github.com/gorilla/websocket"
 )
 
